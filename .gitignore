@@ -1,0 +1,7 @@
+# Example .gitignore
+node_modules/
+venv/
+__pycache__/
+*.log
+*.csv
+*.zip
